@@ -6,7 +6,10 @@ Cloud Native Software Engineer
 
 *   🌍  I'm based in Sheffield
 *   🚀  I'm currently working on [ESO](http://external-secrets.io/)
-*   🧠  I'm learning Kubernetes, Terraform and IaC### Skills
+*   🧠  I'm learning Kubernetes, Terraform and IaC
+*   
+
+### Skills
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
